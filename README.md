@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Tomy Tshiswaka Mutombo 👋
 
-<!--
-**tomymutombo/tomymutombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student**  Université Protestante de Lubumbashi (UPL)  
+💻 **Full-Stack Developer & AI Enthusiast** based in Lubumbashi, DRC  
+🚀 Passionate about building modular Web/Mobile apps, Computer Vision systems, and Developer Tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+* **Languages:** Python, JavaScript, PHP, Java, C, SQL
+* **Frontend & Design:** React.js, Tailwind CSS, HTML5, Vanilla JS
+* **Backend & Frameworks:** Node.js, Express.js, Laravel, JavaFX
+* **AI & Data Science:** OpenCV, spaCy, Scikit-learn, Pandas, NumPy
+* **Databases:** MySQL, Microsoft SQL Server, SQLite, MongoDB
+* **DevOps & Environments:** Git, Docker, SSMS, VS Code
+
+---
+
+### ⚡ Highlights & Projects
+
+* 🛠️ **Maintainer** of [Velt-preview](https://github.com) – Open-source preview & JSON schema tooling for PHP ecosystems.
+* 👁️ **Œil de Dieu** – AI-assisted video surveillance & facial recognition platform.
+* 🚦 **Smart Traffic Control** – Data-driven urban flow analysis for traffic optimization.
+* 💳 **Fintech Experience** – Front-end engineering for Netikash agency platforms.
+
+---
+
+### 📫 Connect with Me
+
+* ♟️ **Chess:** Active player on Chess.com
+* ⚽ **Interests:** Football, Computer Vision, Open Source Contribution
