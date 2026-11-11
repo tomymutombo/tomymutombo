@@ -1,4 +1,4 @@
-# Hi there, I'm Tomy Tshiswaka Mutombo 👋
+# Hi there, I'm Tomy Mutombo 👋
 
 🎓 **Software Engineering Student**  Université Protestante de Lubumbashi (UPL)  
 💻 **Full-Stack Developer & AI Enthusiast** based in Lubumbashi, DRC  
